@@ -3,19 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmikkers&label=Profile%20views&color=0e75b6&style=flat" alt="danielmikkers" /> </p>
 
-<h3 align="left">Education:</h3>
-- BSc Physics and Astronomy
-- MSc Particle and Astrophysics
-<!-- 
-- MSc Econometrics and Mathematical Economics 
-- MSc Quantitative Finance and Actuarial Sciences
--->
-
 - 🔭 I’m currently working on [Neural network library](https://github.com/DanielMikkers)
 
 - 🌱 I’m currently learning **Machine learning and C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielMikkers](https://github.com/DanielMikkers)
+
+
+<h3 align="left">Education:</h3>
+
+- BSc Physics and Astronomy
+
+- MSc Particle and Astrophysics
+<!-- 
+- MSc Econometrics and Mathematical Economics 
+
+- MSc Quantitative Finance and Actuarial Sciences
+-->
 
 <!--
 <h3 align="left">Connect with me:</h3>
