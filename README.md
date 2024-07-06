@@ -8,13 +8,14 @@
 
 ### Education:
 
-- BSc Physics and Astronomy
+- BSc Physics and Astronomy (graduated)
 
-- MSc Particle and Astrophysics
-<!-- 
-- MSc Econometrics and Mathematical Economics 
+- MSc Particle and Astrophysics (student)
 
-- MSc Quantitative Finance and Actuarial Sciences
+- MSc Econometrics and Mathematical Economics (student)
+
+<!--
+- MSc Quantitative Finance and Actuarial Sciences (student)
 -->
 
 <!--
