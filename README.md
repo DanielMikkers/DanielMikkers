@@ -4,19 +4,18 @@
 [![](https://visitcount.itsvg.in/api?id=danielmikkers&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
-🔭 I’m currently working on neural network library & binary choice Ising model<br>🌱 I’m currently learning deep learning & quantitative finance
+🔭 I’m currently working on my thesis on rough volatility models <br>🌱 I’m currently learning deep learning & quantitative finance
 
 ### Education:
 
 - BSc Physics and Astronomy (graduated)
 
-- MSc Particle and Astrophysics (student)
+- MSc Particle and Astrophysics (graduated)
 
 - MSc Econometrics and Mathematical Economics (student)
 
-<!--
 - MSc Quantitative Finance and Actuarial Sciences (student)
--->
+
 
 
 ## 🌐 Socials:
